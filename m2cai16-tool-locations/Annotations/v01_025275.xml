@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>v01_025275.jpg</filename>
+	<source>
+		<database>0</database>
+		<annotation>0</annotation>
+		<image>0</image>
+		<flickrid>0</flickrid>
+	</source>
+	<owner>
+		<flickrid>0</flickrid>
+		<name>0</name>
+	</owner>
+	<size>
+		<width>596</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Grasper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>12</ymin>
+			<xmax>382</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

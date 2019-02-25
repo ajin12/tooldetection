@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>v02_019100.jpg</filename>
+	<source>
+		<database>0</database>
+		<annotation>0</annotation>
+		<image>0</image>
+		<flickrid>0</flickrid>
+	</source>
+	<owner>
+		<flickrid>0</flickrid>
+		<name>0</name>
+	</owner>
+	<size>
+		<width>774</width>
+		<height>434</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bipolar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>562</xmin>
+			<ymin>68</ymin>
+			<xmax>757</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

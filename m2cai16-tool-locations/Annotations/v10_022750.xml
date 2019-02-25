@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>v10_022750.jpg</filename>
+	<source>
+		<database>0</database>
+		<annotation>0</annotation>
+		<image>0</image>
+		<flickrid>0</flickrid>
+	</source>
+	<owner>
+		<flickrid>0</flickrid>
+		<name>0</name>
+	</owner>
+	<size>
+		<width>578</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Irrigator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>56</ymin>
+			<xmax>457</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

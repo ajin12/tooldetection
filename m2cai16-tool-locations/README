@@ -1,0 +1,7 @@
+m2cai16-tool-locations extends the m2cai16-tool dataset with spatial tool annotations. There are 2532 annotated frames, selected from the 23,000 total frames obtained by downsampling the m2cai16-tool videos to 1 fps. We first annotate all frames containing just one tool, and increase the number of annotated instances per class by additionally labeling frames with two and three tools until there are approximately 300 annotated instances for each class. This is to ensure that no classes are underrepresented in the dataset. Videos 1 through 10 are used for training the model. Videos 11 through 15 are used to assess the ability of our approach to provide insights into surgical performance.
+
+Annotations are provided in the same format as the PASCAL Visual Object Classes Challenge 2007 (VOC2007). For each annotated frame, an XML file specifying folder name; frame filename (the JPEGImages folder includes the corresponding JPEG frames); width, height, and depth of the frame; and present tools and their bounding box coordinates is given. The video number and frame number are in the name of the XML file.
+
+The ImageSets folder includes files that indicate the training, validation, and test splits, which are 50%, 30%, and 20% of the data, respectively.
+
+The file class_list.txt lists the 7 classes in m2cai16-tool-locations, which are the same as the classes in m2cai16-tool.

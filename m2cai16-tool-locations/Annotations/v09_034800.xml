@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>v09_034800.jpg</filename>
+	<source>
+		<database>0</database>
+		<annotation>0</annotation>
+		<image>0</image>
+		<flickrid>0</flickrid>
+	</source>
+	<owner>
+		<flickrid>0</flickrid>
+		<name>0</name>
+	</owner>
+	<size>
+		<width>810</width>
+		<height>454</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>163</ymin>
+			<xmax>747</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

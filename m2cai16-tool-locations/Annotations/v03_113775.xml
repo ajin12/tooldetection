@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>v03_113775.jpg</filename>
+	<source>
+		<database>0</database>
+		<annotation>0</annotation>
+		<image>0</image>
+		<flickrid>0</flickrid>
+	</source>
+	<owner>
+		<flickrid>0</flickrid>
+		<name>0</name>
+	</owner>
+	<size>
+		<width>716</width>
+		<height>402</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SpecimenBag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>203</ymin>
+			<xmax>484</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>
