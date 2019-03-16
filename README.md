@@ -62,6 +62,6 @@ The code for generating the assessment metrics for each test video, including to
 
 ## Contact
 
-[mailto](mailto:amyjin713@gmail.com)
+[amyjin713@gmail.com](mailto:amyjin713@gmail.com)
 
 
