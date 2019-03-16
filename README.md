@@ -35,7 +35,7 @@ Half of all surgical complications are estimated to be preventable, many of whic
     - Under `ImageSets` are two more folders called `Layout` and `Main`.
         * `Layout` contains `.txt` files for each tool class, including the binary annotations for tool presence for each frame for train, trainval, val, and test. In the Stanford filesystem, they were retrieved from `/data2/home/ajin/faster_rcnn/datasets/VOCdevkit/VOC2007/ImageSets/Layout-RemovedBackgroundClass-10-31-2016`.
         * `Main` contains four files: `test.txt`, `train.txt`, `trainval.txt`, and `val.txt`, specifying which frames should be used for training, validation, and testing. In the Stanford filesystem, they were retrieved from `/data2/home/ajin/faster_rcnn/datasets/VOCdevkit/VOC2007/ImageSets/Main-m2cai16-MoreAnnotations2-7-27-2017`.
-        * `JPEGImages` needs to be populated. It should contain the `.jpg` image for each frame and its flipped version. In the Stanford filesystem, they were retrieved from `/data2/home/ajin/faster_rcnn/datasets/VOCdevkit/VOC2007/JPEGImages-m2cai16-MoreAnnotations2-7-27-2017`.
+        * `JPEGImages` contains the `.jpg` image for each frame and its flipped version. In the Stanford filesystem, they were retrieved from `/data2/home/ajin/faster_rcnn/datasets/VOCdevkit/VOC2007/JPEGImages-m2cai16-MoreAnnotations2-7-27-2017`.
 
 ### The final trained models / other things that are too big for GitHub (not all are needed for training)
 
